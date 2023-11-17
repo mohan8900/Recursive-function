@@ -22,8 +22,8 @@ print the reversed number.
 
 ## Program:
 ```
-Developed by: Aadheeshwar.A
-Reg no: 212221230001
+Developed by: A K MOHAN RAJ
+Reg no: 212221230064
 ```
 ```cs
 using System;
